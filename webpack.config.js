@@ -27,6 +27,7 @@ const commonExtConfig = {
     'rikaichamp-content': './src/content.ts',
     'rikaichamp-background': './src/background.ts',
     'rikaichamp-options': './src/options.ts',
+    'rikaichamp-worker': './src/worker.ts',
   },
 };
 
